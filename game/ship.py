@@ -1,4 +1,3 @@
-from asyncio.format_helpers import _format_callback_source
 import pygame as pg
 
 class Ship():
