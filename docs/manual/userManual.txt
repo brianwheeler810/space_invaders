@@ -1,1 +1,13 @@
-Nothing intersting here
+This game requires the pygame module.  You should create a virtual environment then use pip to install the pygame module.
+
+cd to the game directory
+run:
+  python -m venv venv
+  source venv/bin/activate
+  pip install pygame
+  python si.py
+  
+to get out of the venv run:
+  deactivate
+
+
